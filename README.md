@@ -6,4 +6,5 @@ Realizar uma análise de um arquivo de emendas utilizando o pandas
 ## O que foi utilizado
 Pandas e Google Colab
 
+NOME
 Gabriel Queiroz de Souza Sabatino
